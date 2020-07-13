@@ -1,8 +1,6 @@
 # Simplistic noise models and image filters
 
--------------------------------------------
-| Read requirements.txt for dependencies. |
--------------------------------------------
+-- Read requirements.txt for dependencies. --
 
 ### Noise models
 
